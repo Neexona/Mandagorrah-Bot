@@ -13,7 +13,7 @@
     "dotenv": "^6.2.0",
     "ejs": "^2.5.7",
     "enmap": "^4.3.2",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "express-passport": "^0.1.0",
     "express-session": "^1.15.6",
     "ffmpeg-binaries": "^4.0.0",
